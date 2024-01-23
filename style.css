@@ -93,23 +93,23 @@ video{
     border-radius: 30px;
 }
 .p{
-    background-image: url(images/piano.jpeg);
+    background-image: url(piano.jpeg);
 }
 .x{
-    background-image: url(images/xylophone.jpeg);
+    background-image: url(xylophone.jpeg);
 }
 .t{
-    background-image: url(images/trumpet.jpeg);
+    background-image: url(trumpet.jpeg);
 }
 .g{
-    background-image: url(images/guitar.jpeg);
+    background-image: url(guitar.jpeg);
 }
 .f{
-    background-image: url(images/flute.jpeg);
+    background-image: url(flute.jpeg);
 }
 .b{
-    background-image: url(images/bugle.jpeg);
+    background-image: url(bugle.jpeg);
 }
 .d{
-    background-image: url(images/drum.jpeg);
+    background-image: url(drum.jpeg);
 }
