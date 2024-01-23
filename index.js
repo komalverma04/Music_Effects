@@ -15,49 +15,49 @@ function makesound(key){
     
     switch(key){
         case "P":
-            var a1 = new Audio("sounds/piano.mp3");
+            var a1 = new Audio("piano.mp3");
             a1.play();
             setTimeout(function() {
                 a1.pause();
             }, 5000);
             break;
         case "B":
-            var a2 = new Audio("sounds/bugle.mp3");
+            var a2 = new Audio("bugle.mp3");
             a2.play();
             setTimeout(function() {
                 a2.pause();
             }, 5000);
             break;
         case "F":
-            var a3 = new Audio("sounds/flute.mp3");
+            var a3 = new Audio("flute.mp3");
             a3.play();
             setTimeout(function() {
                 a3.pause();
             }, 5000);
             break;
         case "T":
-             var a4 = new Audio("sounds/trumpet.mp3");
+             var a4 = new Audio("trumpet.mp3");
              a4.play();
              setTimeout(function() {
                 a4.pause();
             }, 5000);
              break;
         case "G":
-             var a5 = new Audio("sounds/guitar.mp3");
+             var a5 = new Audio("guitar.mp3");
              a5.play();
              setTimeout(function() {
                 a5.pause();
             }, 5000);
              break;
         case "X":
-            var a6 = new Audio("sounds/xylophone.mp3");
+            var a6 = new Audio("xylophone.mp3");
             a6.play();
             setTimeout(function() {
                 a6.pause();
             }, 5000);
             break;
         case "D":
-            var a7 = new Audio("sounds/drum.mp3");
+            var a7 = new Audio("drum.mp3");
             a7.play();
             setTimeout(function() {
                 a7.pause();
