@@ -113,3 +113,15 @@ video{
 .d{
     background-image: url(drum.jpeg);
 }
+@media (width < 700px){
+    .title{
+        font-size: 5.5rem;
+        width:fit-content;
+        display: flex;
+        flex-direction: row;
+        letter-spacing: 0.5rem;
+        top: 42%;
+        left: 25%;
+
+    }
+}
